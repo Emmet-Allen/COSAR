@@ -1,0 +1,19 @@
+﻿h1 {
+    font-family: 'Lobster', cursive;
+}
+
+p{
+    font-family: 'Oswald', cursive;
+}
+
+a{
+    font-family: 'Lobster', cursive;
+}
+
+[class*="col"] {
+    padding: 0.3rem;
+    background-color: white;
+    border: 0.3rem solid #fff;
+    text-align: center;
+}
+
